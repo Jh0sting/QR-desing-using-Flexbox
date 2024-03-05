@@ -22,6 +22,12 @@ body {
     margin: 0 auto;
 }
 
+.attribution {
+    align-items: center;
+    text-align: center;
+    margin-top: 50px
+}
+
 .card {
     background: var(--white);
     padding: 18px 18px 18px 18px;
